@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertg323
 - 👀 I’m interested in Web Apps 
-- 🌱 I’m currently learning AWS
+
 
 
 <!---
